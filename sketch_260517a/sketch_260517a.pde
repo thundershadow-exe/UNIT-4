@@ -5,7 +5,7 @@ void setup() {
 
 int space = 70; // spcing btw circles
 int radius = space/2; // radius of outer circle
- 
+  
 void draw() {
   background(255);
 
