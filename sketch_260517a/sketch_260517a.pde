@@ -2,7 +2,7 @@ void setup() {
   size(800, 600);
   noStroke();
 }
- 
+
 int space = 70; // spcing btw circles
 int radius = space/2; // radius of outer circle
   
